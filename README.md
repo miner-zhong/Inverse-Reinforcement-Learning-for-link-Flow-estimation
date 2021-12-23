@@ -2,11 +2,11 @@
 # Background
 This repository includes source codes for Inverse Reinforcement Learning for link Flow estimation (IRL-F), which is proposed to estimate link flows on a road network by combining traffic volume data and vehicle trajectory data.
 
-![](images/figure1.png)
+![](images/figure1.png){:height="360px" width="360px"}
 
 IRL-F can be evaluated in the Nguyen-Dupuis network. There are 13 nodes, 38 links and 18 OD pairs. Given OD flow data, traffic assignment problem has been solved to obtain path flows and link flows, based on which the observed traffic volume data and trajectory data are generated.
 
-![](images/figure2.png)
+![](images/figure2.png){:height="360px" width="360px"}
 
 # Input data for IRL-F includes:
 •	Network property files, which indicate the number of states, the number of actions, and the dimension of the first state feature vector.
