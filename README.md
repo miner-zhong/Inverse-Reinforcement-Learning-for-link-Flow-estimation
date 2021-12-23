@@ -1,4 +1,4 @@
-# Inverse-Reinforcement-Learning-for-link-Flow-estimation-IRL-F-
+# Inverse-Reinforcement-Learning-for-link-Flow-estimation-IRL-F
 # Background
 This repository includes source codes for Inverse Reinforcement Learning for link Flow estimation (IRL-F), which is proposed to estimate link flows on a road network by combining traffic volume data and vehicle trajectory data.
 
